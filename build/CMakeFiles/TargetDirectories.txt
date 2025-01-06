@@ -1,0 +1,5 @@
+/d/CPP/tools/PearGL/build/CMakeFiles/peargl.dir
+/d/CPP/tools/PearGL/build/CMakeFiles/PearGL.dir
+/d/CPP/tools/PearGL/build/CMakeFiles/PearGL_Audio.dir
+/d/CPP/tools/PearGL/build/CMakeFiles/edit_cache.dir
+/d/CPP/tools/PearGL/build/CMakeFiles/rebuild_cache.dir
